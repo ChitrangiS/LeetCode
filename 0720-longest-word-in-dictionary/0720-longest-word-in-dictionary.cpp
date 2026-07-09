@@ -1,23 +1,17 @@
 class Solution {
 public:
     string longestWord(vector<string>& words) {
-        int n = words.size();
-        unordered_set<string> st(words.begin(), words.end());
+        sort(words.begin(), words.end());
         string ans = "";
-        for (int i = 0; i < n; i++) {
-            string word = words[i];
-            bool valid = true;
-            for (int j = 1; j < word.size(); j++) {
-                string prefix = word.substr(0, j);
+        unordered_set<string> valid;
+        for (string word : words) {
 
-                if (st.find(prefix) == st.end()) {
-                    valid = false;
-                    break;
-                }
-            }
-            if (valid) {
-                if (word.size() > ans.size() ||
-                    (word.size() == ans.size() && word < ans)) {
+            // word size 1 and uska prefix valid mai already avail
+            if (word.size() == 1 ||
+                valid.count(word.substr(0, word.size() - 1))) {
+                valid.insert(word);
+
+                if (word.size() > ans.size()) {
                     ans = word;
                 }
             }
