@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
+| [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ChitrangiS/LeetCode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
