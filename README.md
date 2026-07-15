@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ChitrangiS/LeetCode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChitrangiS/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
