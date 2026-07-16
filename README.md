@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ChitrangiS/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChitrangiS/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ChitrangiS/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ChitrangiS/LeetCode/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
