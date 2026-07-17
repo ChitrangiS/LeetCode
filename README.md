@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChitrangiS/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ChitrangiS/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ChitrangiS/LeetCode/tree/master/1006-clumsy-factorial) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Tree
 |  |
 | ------- |
