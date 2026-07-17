@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ChitrangiS/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChitrangiS/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ChitrangiS/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChitrangiS/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ChitrangiS/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ChitrangiS/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
