@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ChitrangiS/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ChitrangiS/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChitrangiS/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
