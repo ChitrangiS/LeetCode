@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/ChitrangiS/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/ChitrangiS/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
