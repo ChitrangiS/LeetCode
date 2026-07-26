@@ -1,26 +1,38 @@
 class Solution {
 public:
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>>res;
-        vector<int>subset;
-        sort(nums.begin(),nums.end());
-        duplicate(0,nums,subset,res);
-        return res;
-    }
-private:
-   void duplicate(int i, vector<int>& nums, vector<int>& subset, vector<vector<int>>& res){
-   if(i==nums.size()){
-    res.push_back(subset);
-    return;
-   }
-   subset.push_back(nums[i]);
-   duplicate(i+1,nums,subset,res);
-   subset.pop_back();
+    void solve(int i, vector<vector<int>>& ans, vector<int>& nums, vector<int>& subset) {
+        int n = nums.size();
 
-        while (i + 1 < nums.size() && nums[i] == nums[i + 1]) {
-            i++;
+        if (i == n) {
+            ans.push_back(subset);
+            return;
         }
 
-        duplicate(i + 1, nums, subset, res);
-    }    
+        
+        subset.push_back(nums[i]);
+        solve(i + 1, ans, nums, subset);
+
+        // Backtrack
+        subset.pop_back();
+
+        // Skip
+        int idx = i + 1;
+        while (idx < n && nums[idx] == nums[idx - 1]) {
+            idx++;
+        }
+
+        
+        solve(idx, ans, nums, subset);
+    }
+
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+
+        vector<vector<int>> ans;
+        vector<int> subset;
+
+        solve(0, ans, nums, subset);
+
+        return ans;
+    }
 };
