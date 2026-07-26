@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/ChitrangiS/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/ChitrangiS/LeetCode/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChitrangiS/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
@@ -312,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/ChitrangiS/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
