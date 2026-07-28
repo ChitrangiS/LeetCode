@@ -1,28 +1,33 @@
 class Solution {
-private:
-    void findCombinations(int ind, int target, vector<int>& arr, vector<vector<int>>& ans, vector<int>& ds) {
-        if (ind == arr.size()) {
-            if (target == 0) {
-                ans.push_back(ds);
+public:
+    set<vector<int>>s;
+    void getComination(vector<int>& candidates, int i, int target,
+                       vector<vector<int>>& ans, vector<int>& combin) {
+
+        if (i == candidates.size() || target < 0)
+            return;
+        if (target == 0) {
+            if(s.find(combin)==s.end()){
+                ans.push_back(combin);
+                s.insert(combin);
             }
             return;
         }
+        // single
+        combin.push_back(candidates[i]);
+        getComination(candidates, i + 1, target - candidates[i], ans, combin);
 
-        if (arr[ind] <= target) {
-            ds.push_back(arr[ind]);
-            findCombinations(ind, target - arr[ind], arr, ans, ds);
-            ds.pop_back();
-        }
+        // multiple
+        getComination(candidates, i, target - candidates[i], ans, combin);
 
-        findCombinations(ind + 1, target, arr, ans, ds);
+        // not take
+        combin.pop_back();
+        getComination(candidates, i + 1, target, ans, combin);
     }
-
-public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int> ds;
-
-        findCombinations(0, target, candidates, ans, ds);
+        vector<int> combin;
+        getComination(candidates, 0, target, ans, combin);
 
         return ans;
     }
