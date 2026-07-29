@@ -12,3 +12,6 @@ public:
         }
     }
 };
+//bf:take temp ans then  r->l ans+=s[i] o(n),o(n)
+//use stack
+//optimal:two ptr(l<r) swap o(n),o(1)
