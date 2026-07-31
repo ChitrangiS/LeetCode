@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChitrangiS/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ChitrangiS/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ChitrangiS/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ChitrangiS/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ChitrangiS/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
