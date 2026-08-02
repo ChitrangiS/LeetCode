@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ChitrangiS/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChitrangiS/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChitrangiS/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChitrangiS/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ChitrangiS/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ChitrangiS/LeetCode/tree/master/0901-online-stock-span) |
