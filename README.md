@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ChitrangiS/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ChitrangiS/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitrangiS/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ChitrangiS/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/0125-valid-palindrome) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ChitrangiS/LeetCode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChitrangiS/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/0125-valid-palindrome) |
