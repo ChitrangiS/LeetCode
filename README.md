@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChitrangiS/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChitrangiS/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
