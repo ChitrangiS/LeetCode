@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ChitrangiS/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ChitrangiS/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ChitrangiS/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ChitrangiS/LeetCode/tree/master/0078-subsets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChitrangiS/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ChitrangiS/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ChitrangiS/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0070-climbing-stairs) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ChitrangiS/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
