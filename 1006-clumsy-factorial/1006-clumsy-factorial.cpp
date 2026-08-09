@@ -3,29 +3,28 @@ public:
     int clumsy(int n) {
         stack<int> st;
         st.push(n);
-        int op = 0; // 0 for * 1 for / ..
-        for (int i = n-1; i >= 1; i--) {
-
-            if (op == 0) {
+        int p = 0;
+        for (int i = n - 1; i >= 1; i--) {
+            if (p == 0) {
                 int x = st.top();
                 st.pop();
                 st.push(x * i);
-            } else if (op == 1) {
+            } else if (p == 1) {
                 int x = st.top();
                 st.pop();
                 st.push(x / i);
-            } else if (op == 2) {
+            } else if (p == 2) {
                 int x = st.top();
                 st.pop();
                 st.push(x + i);
             } else {
-                st.push( - i);
+                st.push(-i);
             }
-            op = (op + 1) % 4;
+            p = (p + 1) % 4;
         }
-        int ans=0;
-        while(!st.empty()){
-            ans+=st.top();
+        int ans = 0;
+        while (!st.empty()) {
+            ans += st.top();
             st.pop();
         }
         return ans;
