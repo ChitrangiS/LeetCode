@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChitrangiS/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChitrangiS/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChitrangiS/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ChitrangiS/LeetCode/tree/master/0507-perfect-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1006-clumsy-factorial](https://github.com/ChitrangiS/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChitrangiS/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ChitrangiS/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Tree
@@ -395,11 +400,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ChitrangiS/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ChitrangiS/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Primality Test
