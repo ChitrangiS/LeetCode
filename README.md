@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChitrangiS/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChitrangiS/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
