@@ -5,17 +5,13 @@ public:
         for (int x : arr) {
             mp[x]++;
         }
-        vector<int> freq;
-        for (auto it : mp) {
-            freq.push_back(it.second);
-        }
-        for (int i = 0; i < freq.size(); i++) {
-            for (int j = i + 1; j < freq.size(); j++) {
+        unordered_set<int>st;
 
-                if (freq[i] == freq[j]) {
-                    return false;
-                }
+        for(auto it:mp){
+            if(st.find(it.second)!=st.end()){
+                return false;
             }
+            st.insert(it.second);
         }
         return true;
     }
