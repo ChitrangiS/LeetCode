@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChitrangiS/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ChitrangiS/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/ChitrangiS/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChitrangiS/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/ChitrangiS/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ChitrangiS/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
 |  |
 | ------- |
