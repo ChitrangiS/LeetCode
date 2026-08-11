@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChitrangiS/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ChitrangiS/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ChitrangiS/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChitrangiS/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ChitrangiS/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChitrangiS/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ChitrangiS/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ChitrangiS/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ChitrangiS/LeetCode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChitrangiS/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ChitrangiS/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ChitrangiS/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ChitrangiS/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ChitrangiS/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
