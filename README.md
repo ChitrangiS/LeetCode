@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChitrangiS/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChitrangiS/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ChitrangiS/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ChitrangiS/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ChitrangiS/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ChitrangiS/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ChitrangiS/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ChitrangiS/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Tree
 |  |
