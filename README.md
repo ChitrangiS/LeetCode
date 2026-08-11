@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChitrangiS/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ChitrangiS/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ChitrangiS/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ChitrangiS/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ChitrangiS/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ChitrangiS/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ChitrangiS/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0876-middle-of-the-linked-list) |
