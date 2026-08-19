@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChitrangiS/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ChitrangiS/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChitrangiS/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ChitrangiS/LeetCode/tree/master/0724-find-pivot-index) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Linked List
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ChitrangiS/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -510,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChitrangiS/LeetCode/tree/master/0169-majority-element) |
+## Segment Tree
+|  |
+| ------- |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 <!---LeetCode Topics End-->
