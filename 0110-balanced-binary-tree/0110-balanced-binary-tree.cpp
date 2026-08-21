@@ -6,31 +6,37 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+ class Solution {
 public:
-    int dfs(TreeNode* root) {
-        if (root == NULL)
+    int checkHeight(TreeNode* root) {
+
+        if(root == NULL) {
             return 0;
+        }
 
-        int left = dfs(root->left);
-        // if left-1(unbalanced) h then no need procc
-        if (left == -1)
+        int leftheight = checkHeight(root->left);
+
+        if(leftheight == -1) {
             return -1;
+        }
 
-        int right = dfs(root->right);
-        if (right == -1)
+        int rightheight = checkHeight(root->right);
+
+        if(rightheight == -1) {
             return -1;
+        }
 
-        if (abs(left - right) > 1)
+        if(abs(leftheight - rightheight) > 1) {
             return -1;
+        }
 
-        return 1 + max(left, right);
+        return 1 + max(leftheight, rightheight);
     }
+
     bool isBalanced(TreeNode* root) {
-        return dfs(root)!=-1;
+        return checkHeight(root) != -1;
     }
 };
