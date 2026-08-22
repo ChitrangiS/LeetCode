@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/ChitrangiS/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
 | [0867-transpose-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ChitrangiS/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ChitrangiS/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
