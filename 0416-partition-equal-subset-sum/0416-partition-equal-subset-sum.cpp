@@ -1,28 +1,7 @@
 class Solution {
 public:
-    bool solve(int i, int target, vector<int>& nums, vector<vector<int>>& dp) {
-        if (target == 0) {
-            return true;
-        }
-        // mtlb target nhi hua and no ele
-        if (i < 0) {
-            return false;
-        }
-        if (dp[i][target] != -1) {
-            return dp[i][target];
-        }
-        // take
-        bool take = false;
-        if (nums[i] <= target) {
-            take = solve(i - 1, target - nums[i], nums, dp);
-        }
-
-        int nottake = solve(i - 1, target, nums, dp);
-        return dp[i][target] = take || nottake;
-    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-
         int sum = 0;
         for (int x : nums) {
             sum += x;
@@ -30,8 +9,21 @@ public:
         if (sum % 2 != 0) {
             return false;
         }
+
         int target = sum / 2;
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-        return solve(n - 1, target, nums, dp);
+        vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
+        // sum 0 is always possible
+        dp[0][0] = true;
+        for (int i = 1; i <= n; i++) {
+            for (int t = 1; t <= target; t++) {
+                // not
+                dp[i][t] = dp[i - 1][t];
+                // take
+                if (nums[i - 1] <= t) {
+                    dp[i][t] = dp[i][t] || dp[i - 1][t - nums[i - 1]];
+                }
+            }
+        }
+        return dp[n][target];
     }
 };
