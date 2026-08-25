@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChitrangiS/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/ChitrangiS/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Greedy
 |  |
