@@ -1,26 +1,18 @@
 class Solution {
 public:
-    int solve(int i, int buy, vector<int>& prices, vector<vector<int>>& dp) {
-        if (i == prices.size()) {
-            return 0;
-        }
-        if (dp[i][buy] != -1) {
-            return dp[i][buy];
-        }
-        if (buy == 1) {
-            // dont buy
-            int notbuy = solve(i + 1, 1, prices, dp);
-            int buystock = -prices[i] + solve(i + 1, 0, prices, dp);
-            return dp[i][buy] = max(notbuy, buystock);
-        }
-        // sell
-        int notsell = solve(i + 1, 0, prices, dp);
-        int sellstock = prices[i] + solve(i + 1, 1, prices, dp);
-        return dp[i][buy] = max(notsell, sellstock);
-    }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-        return solve(0, 1, prices, dp);
+        vector<vector<int>> dp(n + 1, vector<int>(2, 0));
+        for (int i = n - 1; i >= 0; i--) {
+            // buy=1
+            int notbuy = dp[i + 1][1];
+            int buystock = -prices[i] + dp[i + 1][0];
+            dp[i][1] = max(notbuy, buystock);
+            // sell
+            int notsell = dp[i + 1][0];
+            int sellstock = prices[i] + dp[i + 1][1];
+            dp[i][0] = max(notsell, sellstock);
+        }
+        return dp[0][1];
     }
 };
