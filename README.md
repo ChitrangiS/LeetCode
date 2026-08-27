@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ChitrangiS/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ChitrangiS/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChitrangiS/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1035-uncrossed-lines](https://github.com/ChitrangiS/LeetCode/tree/master/1035-uncrossed-lines) |
