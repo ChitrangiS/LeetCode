@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChitrangiS/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
 | ------- |
