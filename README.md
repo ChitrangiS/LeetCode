@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChitrangiS/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/ChitrangiS/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/ChitrangiS/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChitrangiS/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/ChitrangiS/LeetCode/tree/master/0740-delete-and-earn) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChitrangiS/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/ChitrangiS/LeetCode/tree/master/0968-binary-tree-cameras) |
+| [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
