@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ChitrangiS/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/ChitrangiS/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ChitrangiS/LeetCode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/ChitrangiS/LeetCode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/ChitrangiS/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChitrangiS/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -804,4 +807,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ChitrangiS/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
