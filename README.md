@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChitrangiS/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/ChitrangiS/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChitrangiS/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/ChitrangiS/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ChitrangiS/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChitrangiS/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ChitrangiS/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ChitrangiS/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ChitrangiS/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChitrangiS/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
