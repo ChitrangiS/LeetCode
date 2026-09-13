@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ChitrangiS/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0848-shifting-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0848-shifting-letters) |
+| [0860-lemonade-change](https://github.com/ChitrangiS/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ChitrangiS/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChitrangiS/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/ChitrangiS/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
