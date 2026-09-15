@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChitrangiS/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ChitrangiS/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChitrangiS/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/ChitrangiS/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChitrangiS/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChitrangiS/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChitrangiS/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1408-string-matching-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1529-minimum-suffix-flips](https://github.com/ChitrangiS/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitrangiS/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ChitrangiS/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/ChitrangiS/LeetCode/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Sorting
 |  |
 | ------- |
