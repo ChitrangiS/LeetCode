@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ChitrangiS/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ChitrangiS/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ChitrangiS/LeetCode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/ChitrangiS/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChitrangiS/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChitrangiS/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ChitrangiS/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChitrangiS/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ChitrangiS/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChitrangiS/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
