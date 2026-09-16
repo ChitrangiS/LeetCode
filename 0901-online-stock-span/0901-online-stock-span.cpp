@@ -1,24 +1,16 @@
 class StockSpanner {
 public:
     stack<pair<int, int>> st;
-    int index;
 
-    StockSpanner() { index = 0; }
+    StockSpanner() {}
 
     int next(int price) {
-
-        while (!st.empty() && st.top().first <= price)
+        int span = 1; // curr day always count
+        while (!st.empty() && st.top().first <= price) {
+            span += st.top().second;
             st.pop();
-
-        int span;
-
-        if (st.empty())
-            span = index + 1;
-        else
-            span = index - st.top().second;
-
-        st.push({price, index});
-        index++;
+        }
+        st.push({price, span});
 
         return span;
     }
