@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ChitrangiS/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ChitrangiS/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1110-delete-nodes-and-return-forest](https://github.com/ChitrangiS/LeetCode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/ChitrangiS/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ChitrangiS/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0817-linked-list-components](https://github.com/ChitrangiS/LeetCode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ChitrangiS/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
