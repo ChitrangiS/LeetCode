@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChitrangiS/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/ChitrangiS/LeetCode/tree/master/1002-find-common-characters) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ChitrangiS/LeetCode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ChitrangiS/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ChitrangiS/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChitrangiS/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ChitrangiS/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ChitrangiS/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ChitrangiS/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/ChitrangiS/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ChitrangiS/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ChitrangiS/LeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Merge Sort
@@ -673,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ChitrangiS/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -1081,4 +1087,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ChitrangiS/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
