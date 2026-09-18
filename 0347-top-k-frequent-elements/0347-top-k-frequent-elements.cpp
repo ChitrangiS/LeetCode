@@ -5,18 +5,15 @@ public:
         for (int x : nums) {
             mp[x]++;
         }
-        vector<pair<int, int>> freq;
+        vector<pair<int, int>> arr;
         for (auto it : mp) {
-            freq.push_back({it.first, it.second});
+            arr.push_back({it.second, it.first});
         }
-        sort(freq.begin(), freq.end(),
-             [](auto& a, auto& b) { return a.second > b.second; });
+        sort(arr.begin(), arr.end());
         vector<int> ans;
-
-        for (int i = 0; i < k; i++) {
-            ans.push_back(freq[i].first);
+        for (int i = arr.size() - k; i < arr.size(); i++) {
+            ans.push_back(arr[i].second);
         }
-
         return ans;
     }
 };
