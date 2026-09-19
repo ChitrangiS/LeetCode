@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ChitrangiS/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChitrangiS/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1710-maximum-units-on-a-truck](https://github.com/ChitrangiS/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChitrangiS/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ChitrangiS/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ChitrangiS/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1710-maximum-units-on-a-truck](https://github.com/ChitrangiS/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ChitrangiS/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ChitrangiS/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/ChitrangiS/LeetCode/tree/master/3731-find-missing-elements) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1529-minimum-suffix-flips](https://github.com/ChitrangiS/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChitrangiS/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/ChitrangiS/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ChitrangiS/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
