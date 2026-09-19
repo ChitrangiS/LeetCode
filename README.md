@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ChitrangiS/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChitrangiS/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/ChitrangiS/LeetCode/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChitrangiS/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChitrangiS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ChitrangiS/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChitrangiS/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1323-maximum-69-number](https://github.com/ChitrangiS/LeetCode/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChitrangiS/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1529-minimum-suffix-flips](https://github.com/ChitrangiS/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChitrangiS/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
