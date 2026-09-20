@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/ChitrangiS/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ChitrangiS/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/ChitrangiS/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ChitrangiS/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChitrangiS/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ChitrangiS/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1529-minimum-suffix-flips](https://github.com/ChitrangiS/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1544-make-the-string-great](https://github.com/ChitrangiS/LeetCode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/ChitrangiS/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ChitrangiS/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChitrangiS/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChitrangiS/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/ChitrangiS/LeetCode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/ChitrangiS/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChitrangiS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
