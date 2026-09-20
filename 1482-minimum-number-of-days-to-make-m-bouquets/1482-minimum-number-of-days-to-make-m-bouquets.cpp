@@ -1,40 +1,35 @@
 class Solution {
 public:
-    int ispossible(vector<int>& bloomDay, int day,int m, int k){
-        int cnt=0;//consecutive 
-        int bouq=0;
-
-        for(int x:bloomDay){
-            if(x<=day){
-                cnt++;
-            }
-            else{
-                //no consecutive
-                bouq+=cnt/k;
-                cnt=0;//reset
-            }
-        }
-        bouq+=cnt/k;
-        return bouq>=m;//true return agar m se jyada hoga
-    }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        long long req=1LL*m*k;
+        int n = bloomDay.size();
+        int l = *min_element(bloomDay.begin(), bloomDay.end());
+        int r = *max_element(bloomDay.begin(), bloomDay.end());
+        int ans = -1;
 
-        if(req>bloomDay.size()){
-            return -1;
-        }
-        //min possible
-        int low=*min_element(bloomDay.begin(),bloomDay.end());
-        int high=*max_element(bloomDay.begin(),bloomDay.end());
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            int bouquet = 0;
+            int flower = 0;
 
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(ispossible(bloomDay,mid,m,k)){
-                high=mid-1;
-            }else{
-                low=mid+1;
+            for (int i = 0; i < n; i++) {
+                if (bloomDay[i] <= mid) {
+                    flower++;
+
+                    if (flower == k) {
+                        bouquet++;
+                        flower = 0;
+                    }
+                } else {
+                    flower = 0;
+                }
+            }
+            if (bouquet >= m) {
+                ans = mid;
+                r = mid - 1;
+            } else {
+                l = mid + 1;
             }
         }
-        return low;
+        return ans;
     }
 };
