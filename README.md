@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChitrangiS/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChitrangiS/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/ChitrangiS/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChitrangiS/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ChitrangiS/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/ChitrangiS/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ChitrangiS/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChitrangiS/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ChitrangiS/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/ChitrangiS/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/ChitrangiS/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChitrangiS/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ChitrangiS/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Recursion
 |  |
